@@ -11,7 +11,7 @@
  [Clique aqui para acessar!!](https://www.youtube.com/watch?v=llF6vD-RljE)
 
  #  Veja a página aqui:
- [Veja-o aqui!](https://marketing-criativo-omega.vercel.app/)
+ [Veja-o aqui!](https://ballebot-navy.vercel.app/)
    
   
    
