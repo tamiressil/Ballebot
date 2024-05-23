@@ -1,6 +1,6 @@
 # Ballebot
 
-  -Ballebot e uma Ia que ajuda a monitorar grupos no discord.
+ - Ballebot e uma Ia que ajuda a monitorar grupos no discord.
    
  - Projeto construído com base em um tutorial do Youtube.
 
